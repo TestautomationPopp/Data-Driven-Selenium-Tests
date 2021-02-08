@@ -1,0 +1,6 @@
+com\tws\twsframework\dataprovider\SearchProvider.class
+com\tws\twsframework\pageobjects\TwsMain.class
+com\tws\twsframework\tests\FirstTest.class
+com\tws\twsframework\pageobjects\SearchResult.class
+com\tws\twsframework\framework\Browser.class
+com\tws\twsframework\dataprovider\BrowserProvider.class
